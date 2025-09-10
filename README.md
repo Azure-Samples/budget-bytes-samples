@@ -52,16 +52,6 @@ budget-bytes-samples/
 └── README.md                   # This file
 ```
 
-## Content Development Process
-
-This series follows a structured content development process with three touchpoint meetings for each speaker to ensure consistency and quality:
-
-1. **Initial Planning** - Content outline and technical requirements
-2. **Content Review** - Demo validation and narrative alignment  
-3. **Final Review** - Polish and integration testing
-
-Content lead Pablo Lopes (.NET Advocacy team) coordinates across sessions to maintain consistency and leverage existing demo applications where possible.
-
 ## Contributing
 
 Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on contributing to this repository.
