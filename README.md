@@ -10,17 +10,17 @@ This repository contains samples and demonstrations for a 6-part series focused 
 
 | Session | Topic | Speaker(s) | Focus | Video |
 |---------|-------|------------|-------|-------|
-| 0 | Trailer: Montage of Highlights | All Speakers | Introduction snippets and series overview | [🎥 YouTube](https://www.youtube.com/watch?v=TRAILER_VIDEO_ID) |
-| 1 | [AI Foundry + Azure SQL Database](./session-1-ai-foundry-azure-sql/) | Jasmine Greenaway | Inventory Management with AI agents | [🎥 YouTube](https://www.youtube.com/watch?v=SESSION1_VIDEO_ID) |
-| 2 | [Copilot Studio Integration](./session-2-copilot-studio/) | Bob Ward | Copilot Studio with Azure SQL free tier | [🎥 YouTube](https://www.youtube.com/watch?v=SESSION2_VIDEO_ID) |
-| 3 | [MCP + SQL GitHub Demo](./session-3-mcp-sql-github/) | Davide Mauri or Jerry Nixon | Model Context Protocol with .NET | [🎥 YouTube](https://www.youtube.com/watch?v=SESSION3_VIDEO_ID) |
-| 4 | [Insurance AI Application](./session-4-insurance-app/) | Muazma Zahid & Amar Digamber Patil | AI-driven insurance scenarios | [🎥 YouTube](https://www.youtube.com/watch?v=SESSION4_VIDEO_ID) |
-| 5 | Fireside Chat Wrap-Up| Priya Sathy & Guest | Series recap and insights | [🎥 YouTube](https://www.youtube.com/watch?v=SESSION5_VIDEO_ID) |
+| 0 | Trailer: Montage of Highlights | All Speakers | Introduction snippets and series overview | [🎥 YouTube](https://www.youtube.com/watch?v=NY_ESU6GKM0) |
+| 1 | [AI Foundry + Azure SQL Database](./session-1-ai-foundry-azure-sql/) | Jasmine Greenaway | Inventory Management with AI agents | |
+| 2 | [MCP + SQL GitHub Demo](./session-3-mcp-sql-github/) | Davide Mauri | Model Context Protocol with .NET |  |
+| 3 | [Insurance AI Application](./session-4-insurance-app/) | Muazma Zahid & Amar Digamber Patil | AI-driven insurance scenarios |  |
+| 4 | [Copilot Studio Integration](./session-2-copilot-studio/) | Bob Ward | Copilot Studio with Azure SQL free tier |  |
+| 5 | Fireside Chat Wrap-Up| Priya Sathy & Guest | Series recap and insights |  |
 
 ## Key Technologies
 
 - **Azure SQL Database** (Free and budget tiers)
-- **AI Foundry** for intelligent agents
+- **Microsoft Foundry** for intelligent agents
 - **Microsoft Copilot Studio** for conversational AI
 - **Model Context Protocol (MCP)** for integration
 - **.NET** ecosystem and Data API Builder
