@@ -11,7 +11,7 @@ This repository contains samples and demonstrations for a 6-part series focused 
 | Session | Topic | Speaker(s) | Focus | Video |
 |---------|-------|------------|-------|-------|
 | 0 | Trailer: Montage of Highlights | All Speakers | Introduction snippets and series overview | [🎥 YouTube](https://www.youtube.com/watch?v=NY_ESU6GKM0) |
-| 1 | [AI Foundry + Azure SQL Database](./session-1-ai-foundry-azure-sql/) | Jasmine Greenaway | Inventory Management with AI agents | |
+| 1 | [AI Foundry + Azure SQL Database](./session-1-ai-foundry-azure-sql/) | Jasmine Greenaway | [Inventory Management with Microsoft Foundry](https://www.youtube.com/watch?v=lHKL19uYo_8&list=PLlrxD0HtieHgMVW6fTmK6Hb6LF1iWi27R&index=3) | |
 | 2 | [MCP + SQL GitHub Demo](./session-3-mcp-sql-github/) | Davide Mauri | Model Context Protocol with .NET |  |
 | 3 | [Insurance AI Application](./session-4-insurance-app/) | Muazma Zahid & Amar Digamber Patil | AI-driven insurance scenarios |  |
 | 4 | [Copilot Studio Integration](./session-2-copilot-studio/) | Bob Ward | Copilot Studio with Azure SQL free tier |  |
